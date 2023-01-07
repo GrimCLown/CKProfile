@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ckrana.github.io/static/css/main.f2a6f66e.css",
+    "main.js": "/ckrana.github.io/static/js/main.fa86b88b.js",
+    "static/media/ck.jpg": "/ckrana.github.io/static/media/ck.127f992ac9fbd86ed63d.jpg",
+    "static/media/ck.png": "/ckrana.github.io/static/media/ck.5169a68408bff9796a61.png",
+    "static/media/CV.pdf": "/ckrana.github.io/static/media/CV.653664254de1d069229e.pdf",
+    "static/media/texture3.png": "/ckrana.github.io/static/media/texture3.47bcb083aba270cb7853.png",
+    "index.html": "/ckrana.github.io/index.html",
+    "main.f2a6f66e.css.map": "/ckrana.github.io/static/css/main.f2a6f66e.css.map",
+    "main.fa86b88b.js.map": "/ckrana.github.io/static/js/main.fa86b88b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2a6f66e.css",
+    "static/js/main.fa86b88b.js"
+  ]
+}
